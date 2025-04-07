@@ -2,7 +2,7 @@
 
 This project implements a Scrabble board game with multiple artificial intelligence algorithms for the YAP 441 Artificial Intelligence course.
 
-![Game Image](https://i.imgur.com/tJLENQl.png)
+![Game Image](genel_arayuz.png)
 
 ## How to Run
 
